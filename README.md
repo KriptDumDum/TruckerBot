@@ -1,4 +1,4 @@
-GPT-4 Discord Chat Bot
+TruckerBot
 This repository contains a Discord chat bot that uses OpenAI's GPT-4 model to generate responses based on user input. The bot maintains separate conversation histories for each user and allows users to delete their conversation history.
 
 Features
@@ -14,12 +14,13 @@ A Discord bot token
 Installation
 Clone the repository:
 
-git clone https://github.com/yourusername/gpt4-discord-chat-bot.git
-cd gpt4-discord-chat-bot
+git clone https://github.com/KriptDumDum/TruckerBot.git
+cd TruckerBot
 
 Install dependencies:
 
 npm install
+
 Create a .env file in the project root directory and add the following:
 
 API_KEY=<Your_OpenAI_API_Key>
