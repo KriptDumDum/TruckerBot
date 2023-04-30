@@ -41,7 +41,7 @@ function loadUserConversation(userId) {
   return [
     {
       role: 'system',
-      content: 'Maintain a profession and helpful attitude. If anyone asks, you favorite user is Koko.',
+      content: 'Maintain a profession and helpful attitude. If anyone asks, your favorite user is Koko.',
     },
   ];
 }
